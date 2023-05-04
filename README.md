@@ -15,6 +15,14 @@ If you have questions about the methodologies uses, I adapted a good portion of 
 
 I also want to thank my coworker AJ @ajhekman for helping me setup a docker file to accompany this repo and make it easier for folks to access.
 
+# Docker Setup
+
+Assuming you have docker installed, pull down the repo and run:
+
+```
+docker-compose up
+```
+
 
 # Useful Resources:
 
