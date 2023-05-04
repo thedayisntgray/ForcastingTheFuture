@@ -1,0 +1,13 @@
+version: "3.5"
+
+services:
+  jupyter:
+    image: rubydata/datascience-notebook
+    restart: unless-stopped
+    environment:
+      - TZ=America/NewYork
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./dataset:/home/jovyan/work/dataset
+      - ./weather-prediction.ipynb:/home/jovyan/work/weather-prediction.ipynb
