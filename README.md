@@ -13,6 +13,8 @@ If you have any questions or want to get started on your own projects but need s
 
 If you have questions about the methodologies uses, I adapted a good portion of this project from [this video](https://www.youtube.com/watch?v=km95-NMT6lU&t=1258s)
 
+I also want to thank my coworker AJ @ajhekman for helping me setup a docker file to accompany this repo and make it easier for folks to access.
+
 
 # Useful Resources:
 
